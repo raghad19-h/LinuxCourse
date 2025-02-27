@@ -1,0 +1,4 @@
+BugID,Description,Branch,Developer,Priority,RepoPath,GithubURL
+1000,add comments,q3_1,abu,1,~/Linux_Course_Work,https://github.com/raghad19-h/LinuxCourse
+1001,add scripts,q3_2,dala,2,~/Linux_Course_Work,https://github.com/raghad19-h/LinuxCourse
+1002,fix bug,q3_3,ali,3,~/Linux_Course_Work,https://github.com/raghad19-h/LinuxCourse
