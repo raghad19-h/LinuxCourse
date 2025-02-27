@@ -1,0 +1,27 @@
+    1  cd ~
+    2  mkdir Q2_ENV
+    3  sudo apt install python3-venv
+    4  mkdir Q2_ENV
+    5  sudo apt install python3-venv
+    6  python3 -m venv ~/Q2_ENV
+    7  source ~/Q2_ENV/bin/activate
+    8  pip install numpy
+    9  pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple
+   10  pip install numpy --trusted-host pypi.org --trusted-host files.pythonhosted.org
+   11  cd Linux_Course_Work/
+   12  mkdir Q2
+   13  rsync -av CODE/py1.py Q2/
+   14  cd Q2/
+   15  chmod +x py1.py 
+   16  touch q2_output.txt
+   17  python3 py1.py >> q2_output.txt 
+   18  cat q2_output.txt 
+   19  touch requirments.txt
+   20  pip freeze >> requirments.txt
+   21  cat requirments.txt 
+   22  nano py1.py 
+   23  pip install -r requirments.txt 
+   24  python3 py1.py >> q2_output.txt 
+   25  cat q2_output.txt
+   26  touch history.txt
+   27  history >> history.txt 
