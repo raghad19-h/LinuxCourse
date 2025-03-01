@@ -1,0 +1,26 @@
+2025-03-01 20:21:06 - Setting up new virtual environment in /home/Raghad/env_plant
+2025-03-01 20:21:10 - Dependencies file missing, creating /home/Raghad/Linux_Course_Work/Q4/dependencies.list
+2025-03-01 20:21:10 - Dependencies file created
+2025-03-01 20:21:10 - Installing required packages from /home/Raghad/Linux_Course_Work/Q4/dependencies.list
+2025-03-01 20:21:57 - Starting to process CSV: plants.csv
+2025-03-01 20:21:57 - Handling data for plant: Rose
+2025-03-01 20:21:57 - Created folder for Rose at /home/Raghad/Linux_Course_Work/Q4/Rose
+2025-03-01 20:21:57 - Running Python script for Rose with height=50 55 60 65 70, leaf_count=35 40 45 50 55, dry_weight=2.0 2.2 2.5 2.7 3.0
+2025-03-01 20:22:02 - Plots for Rose moved to /home/Raghad/Linux_Course_Work/Q4/Rose
+2025-03-01 20:22:02 - Handling data for plant: Tulip
+2025-03-01 20:22:02 - Created folder for Tulip at /home/Raghad/Linux_Course_Work/Q4/Tulip
+2025-03-01 20:22:02 - Running Python script for Tulip with height=30 35 40 42, leaf_count=12 15 18 20, dry_weight=1.5 1.6 1.7 1.8
+2025-03-01 20:22:03 - Plots for Tulip moved to /home/Raghad/Linux_Course_Work/Q4/Tulip
+2025-03-01 20:22:03 - Handling data for plant: Sunflower
+2025-03-01 20:22:03 - Created folder for Sunflower at /home/Raghad/Linux_Course_Work/Q4/Sunflower
+2025-03-01 20:22:03 - Running Python script for Sunflower with height=120 125 130 135, leaf_count=50 55 60 65, dry_weight=5.0 5.5 6.0 6.5
+2025-03-01 20:22:05 - Plots for Sunflower moved to /home/Raghad/Linux_Course_Work/Q4/Sunflower
+2025-03-01 20:22:05 - Handling data for plant: Daffodil
+2025-03-01 20:22:05 - Created folder for Daffodil at /home/Raghad/Linux_Course_Work/Q4/Daffodil
+2025-03-01 20:22:05 - Running Python script for Daffodil with height=40 45 50 55, leaf_count=15 18 20 22, dry_weight=1.8 2.0 2.2 2.5
+2025-03-01 20:22:06 - Plots for Daffodil moved to /home/Raghad/Linux_Course_Work/Q4/Daffodil
+2025-03-01 20:22:06 - Handling data for plant: Lily
+2025-03-01 20:22:06 - Created folder for Lily at /home/Raghad/Linux_Course_Work/Q4/Lily
+2025-03-01 20:22:06 - Running Python script for Lily with height=60 65 70, leaf_count=20 22 24, dry_weight=2.5 2.7 3.0
+2025-03-01 20:22:07 - Plots for Lily moved to /home/Raghad/Linux_Course_Work/Q4/Lily
+2025-03-01 20:22:07 - Finished processing all plants successfully.
