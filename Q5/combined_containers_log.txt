@@ -1,0 +1,21 @@
+container1
+container1.csv:
+Date collected,Species,Sex,Weight
+11/11,OT,M,85
+12/12,PF,F,63
+5_output.txt:
+New CSV file created: container1.csv with column headers
+New row added: 11/11,OT,M,85 to container1.csv
+New row added: 12/12,PF,F,63 to container1.csv
+Program ended
+
+container2
+container2.csv:
+Date collected,Species,Sex,Weight
+5/5,OT,M,55
+6/6,NA,F,68
+5_output.txt:
+New CSV file created: container2.csv with column headers
+New row added: 5/5,OT,M,55 to container2.csv
+New row added: 6/6,NA,F,68 to container2.csv
+Program ended
