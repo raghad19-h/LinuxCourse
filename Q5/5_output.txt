@@ -1,0 +1,5 @@
+New CSV file created: file.csv with column headers
+New row added: 5/5,PF,M,55 to file.csv
+Listing all CSV entries with row numbers from file.csv:
+Finished listing all entries with row numbers
+Program ended
