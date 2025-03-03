@@ -1,0 +1,14 @@
+New SQLite database created: myDB.db with table 'data'
+New row added: 1/2,OT,F,60 to myDB.db
+New row added: 3/3,PF,M,78 to myDB.db
+Updated weight for row 1 to 40 in myDB.db
+Row 1 deleted from myDB.db
+New row added: 5/5,OT,M,70 to myDB.db
+New row added: 6/6,PF,F,50 to myDB.db
+Entries for species 'PF' in myDB.db:
+Average weight for PF: 64.0
+Displayed entries and average weight for specie type 'PF': 64.0
+Entries for species 'PF' and gender 'M' in myDB.db:
+Average weight for PF and gender M: 78.0
+Displayed entries and average weight for specie type 'PF' and gender 'M': 78.0
+Program ended
