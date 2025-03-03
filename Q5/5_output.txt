@@ -3,3 +3,12 @@ New row added: 5/5,PF,M,55 to file.csv
 Listing all CSV entries with row numbers from file.csv:
 Finished listing all entries with row numbers
 Program ended
+New CSV file created: question_5_d.csv with column headers
+New row added: 10/10,OT,M,72 to question_5_d.csv
+New row added: 11/11,OT,F,60 to question_5_d.csv
+New row added: 12/12,OT,M,81 to question_5_d.csv
+New row added: 13/13,PF,M,90 to question_5_d.csv
+New row added: 9/9,PF,F,58 to question_5_d.csv
+New row added: 7/7,PF,M,68 to question_5_d.csv
+New row added: 8/8,PF,F,57 to question_5_d.csv
+Program ended

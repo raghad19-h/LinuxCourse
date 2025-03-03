@@ -1,0 +1,18 @@
+R Script Execution Log
+
+Count the Number of Males and Females: 
+ F M  3 4  
+--- End of Males and Females Count --- 
+
+Count the Number of Records per Species: 
+ OT PF   3  4  
+--- End of Species Records Count --- 
+
+Sorting the Data by Weight: 
+  Date.collected Species Sex Weight 7            8/8      PF   F     57 5            9/9      PF   F     58 2          11/11      OT   F     60 6            7/7      PF   M     68 1          10/10      OT   M     72 3          12/12      OT   M     81 4          13/13      PF   M     90 
+--- End of Sorting by Weight --- 
+
+Plotting to Image Weight Distribution by Sex: 
+Image saved as 'weight_by_gender.png' 
+--- End of Weight Distribution Plot --- 
+Program terminated 
